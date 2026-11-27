@@ -5,12 +5,12 @@ Welcome to my programming practice repository!
 
 ## Student Information
 
-- **Name:**
-- **Student ID:**
-- **Section:**
+- **Name:Md  Al Sharia Rakib**
+- **Student ID:0112620253**
+- **Section:F**
 - **Course:** CSE 1112
 - **Course Title:** Structured Programming Language Laboratory
-- **Trimester:**
+- **Trimester:2nd**
 - **Instructor:**
 
 ## About This Repository
